@@ -1,0 +1,12 @@
+
+Seq_Data_and_Output/*.fastq.gz
+Seq_Data_and_Output/*.fastq
+.snakemake
+*.png
+*.csv
+*.txt
+!Tasks_in_Preprocessing_I.png
+!linker3.txt
+!Groupnames.txt
+refs/bowtie_index*/
+refs/mature_isomir.fa

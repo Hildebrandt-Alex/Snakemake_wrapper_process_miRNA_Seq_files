@@ -1,0 +1,9 @@
+channels:
+  - r
+dependencies:
+  - r-data.table 
+  - r-base=3.3.1
+  - r-ggplot2
+  - r-reshape2
+  - r-RColorBrewer
+  - r-scales

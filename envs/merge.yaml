@@ -1,0 +1,6 @@
+channels:
+  - r
+dependencies:
+  - r-data.table
+  - r-base=3.3.1
+  - readline=6.2

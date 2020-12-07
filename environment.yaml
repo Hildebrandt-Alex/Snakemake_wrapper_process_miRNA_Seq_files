@@ -1,0 +1,15 @@
+name: Preprocessing_I 
+
+
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - python=3.6
+  - snakemake=4.8.0
+  - r=3.4.1
+  - bowtie=1.2.0
+  - fastqc=0.11.7
+  - java-jdk=8.0.112
+  - progressbar2=3.38.0
