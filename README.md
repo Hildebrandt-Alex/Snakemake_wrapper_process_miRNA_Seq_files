@@ -1,4 +1,4 @@
-Preprocessing raw NGS data I
+Snakemake_wrapper_process_miRNA_Seq_files
 -----------------------------------------------------------------------
 
 ### Description
